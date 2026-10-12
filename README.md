@@ -6,6 +6,12 @@
 
 [GitHub 仓库](https://github.com/huixiaodou123/sun-alan-life-lab) · [版本与下载](https://github.com/huixiaodou123/sun-alan-life-lab/releases)
 
+## 92 秒视频与制作文件
+
+[竖屏讲解视频](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.1.0/version-lab-v1.mp4) · [字幕](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.1.0/version-lab-v1.srt) · [封面](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.1.0/version-lab-cover.jpg) · [可编辑视频工程](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.1.0/version-lab-editable.zip)
+
+视频采用通用 AI 中文配音与原创文字动效，演示场景明确标注为虚构用法；不冒充原作者，也不把示例当成实际效果证明。成片为 1080×1920、30fps、92.4 秒。现有 Skill 下载包保持原 v0.1.0 内容，视频作为同一发布页的独立附件提供。
+
 ## 能帮你做什么
 
 - 查观点：找到来源，分清本人表达、社区延伸、传播梗和本项目设计。
