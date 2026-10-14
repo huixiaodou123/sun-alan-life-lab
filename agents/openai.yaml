@@ -1,4 +1,4 @@
 interface:
   display_name: "版本实验室"
-  short_description: "梳理孙宇晨、邵艾伦与抖音延伸讨论，帮你找到适合自己的行动并持续复盘"
+  short_description: "梳理孙宇晨、邵艾伦与抖音延伸讨论，帮你找到适合自己的行动、复盘并检查新观点"
   default_prompt: "用 $sun-alan-life-lab 根据我的现状，帮我选一个本周能完成的小实验。"
