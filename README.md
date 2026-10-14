@@ -10,7 +10,7 @@
 
 从孙学、开图、小我，到薄肌、黄毛、英语、创作、大水和过日子，按你的问题查来源、找用法。**自更新由调用 Skill 的 Agent 执行**：开始新应用任务时检查本人新公开内容，核对后补进知识库；观点变化保留记录。没有配置常驻任务时，不声称全天即时监控。
 
-[新版视频](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2.mp4) · [大嘴配音](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2-dazui.wav) · [可选字幕](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2-optional.srt) · [可编辑工程](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2-editable.zip)
+[新版视频](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2.mp4) · [大嘴配音](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2-dazui.wav) · [可选字幕](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/optional-captions-v2.srt) · [可编辑工程](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v2-editable.zip)
 
 视频使用用户指定的 ComfyUI 保存音色“大嘴”，仅保留主体动效文字，完整旁白字幕单独提供，默认不烧录。两人的姓名用于识别讨论对象，不表示本人为这个第三方 Skill 背书。
 
