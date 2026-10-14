@@ -10,9 +10,9 @@
 
 从孙学、开图、小我，到薄肌、黄毛、英语、创作、大水和过日子，按你的问题查来源、找用法。**自更新由调用 Skill 的 Agent 执行**：开始新应用任务时检查本人新公开内容，核对后补进知识库；观点变化保留记录。没有配置常驻任务时，不声称全天即时监控。
 
-[新版视频](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v4.mp4) · [大嘴配音](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v4-dazui.wav) · [可选字幕](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/optional-captions-v4.srt) · [可编辑工程](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v4-editable.zip)
+[新版视频](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v5.mp4) · [大嘴配音](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v5-dazui.wav) · [可选字幕](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/optional-captions-v5.srt) · [可编辑工程](https://github.com/huixiaodou123/sun-alan-life-lab/releases/download/v0.2.0/version-lab-v5-editable.zip)
 
-视频 v4（约78秒）：粗黑体大字、短句分段、绿色关键词、直接切换；安装与调用口令采用易读的短行卡片。按用户要求，结尾追加“遥遥领先，让友商永远追不上。”，沿用“大嘴”配音。
+视频 v5（约78秒）：粗黑体大字、短句分段、绿色关键词、直接切换；安装与调用口令采用易读的短行卡片。按用户要求，结尾追加“遥遥领先，让友商永远追不上。”，沿用“大嘴”音色，结尾两句分开生成，加强语气与节奏。
 
 视频使用用户指定的 ComfyUI 保存音色“大嘴”，仅保留主体动效文字，完整旁白字幕单独提供，默认不烧录。两人的姓名用于识别讨论对象，不表示本人为这个第三方 Skill 背书。
 
